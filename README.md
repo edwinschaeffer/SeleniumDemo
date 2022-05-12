@@ -1,5 +1,5 @@
 # Basic Spring Boot Automation Test Example 
-Thanks to arndc for uploading this original example! Helped alot.
+Thanks to arndc ( https://github.com/arndc ) for uploading this original example! Helped alot.
 
 A basic example of an automation test using Spring Boot, Thymeleaf and Selenium.
 
